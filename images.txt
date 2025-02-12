@@ -1,3 +1,4 @@
 nginx
 alpine
 nextcloud
+gitea/gitea:1.23.3-rootless

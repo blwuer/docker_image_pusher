@@ -1,1 +1,1 @@
-mcr.microsoft.com/playwright/python:v1.50.0-noble
+redis:7.4.2

@@ -1,3 +1,1 @@
-nyanmisaka/jellyfin:250217-amd64
-jellyfin/jellyfin:10.10.6
-jellyfin/jellyfin:2025030305
+xhofe/alist:v3.42.0

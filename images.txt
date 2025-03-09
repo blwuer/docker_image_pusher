@@ -1,1 +1,3 @@
-redis:7.4.2
+nyanmisaka/jellyfin:250217-amd64
+jellyfin/jellyfin:10.10.6
+jellyfin/jellyfin:2025030305

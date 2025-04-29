@@ -1,1 +1,1 @@
-zadam/trilium:0.63-latest
+star7th/showdoc:v3.3.1
